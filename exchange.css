@@ -95,7 +95,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 641px;
+  min-height: 555px;
 }
 
 .u-section-2 .u-text-1 {
@@ -119,9 +119,8 @@
 }
 
 .u-section-2 .u-custom-html-1 {
-  margin-bottom: 60px;
+  margin-bottom: 6px;
   margin-top: 0;
-  height: auto;
   min-height: 447px;
 }
 
@@ -134,6 +133,10 @@
     width: 647px;
     margin-left: 12px;
     margin-right: 12px;
+  }
+
+  .u-section-2 .u-custom-html-1 {
+    height: auto;
   }
 }
 
